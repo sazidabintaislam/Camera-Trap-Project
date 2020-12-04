@@ -13,14 +13,18 @@ model for recognition purpose. All three species have classified individually re
 dataset. The performance is evaluated based on the classification accuracy within their group using two separate sets of validation and testing data. In the end, both 
 models have tested to predict the category of a new example to compare the models' generalization ability with a challenging camera trap data.
 
+****************** # Project Experiments ************
 
-Libraries: 
-  cv2,
-  tensorflow,
-   keras,
-  scikit-learn,
-  numpy,
-  matplotlib,
-  h5py,
-  itertools,
-  datetime,
+# Dataset: 
+1. Online dataset and 2. Camera trap dataset (field dataset)
+
+
+# Models: 
+1. CNN-1 (without augmentation) and 2. CNN-2 (with augmentation) 
+
+# Expeirments: 
+1. Binray and 2. Multiclass
+
+
+# Libraries:
+	cv2, tensorflow, keras, scikit-learn, numpy, matplotlib, h5py, itertools, datetime,
