@@ -15,12 +15,12 @@ models have tested to predict the category of a new example to compare the model
 
 
 Libraries: 
-cv2
-tensorflow
-keras
-scikit-learn
-numpy
-matplotlib
-h5py
-itertools 
-datetime
+cv2,
+tensorflow,
+keras,
+scikit-learn,
+numpy,
+matplotlib,
+h5py,
+itertools,
+datetime,
