@@ -20,7 +20,7 @@ The initial experiment implies building a flexible binary and multiclass CNN arc
 1. CNN-1 (without augmentation) and 2. CNN-2 (with augmentation) 
 
 # Expeirments: 
-1. Binray and 2. Multiclass
+1. Binary and 2. Multiclass
 
 
 # Libraries:
