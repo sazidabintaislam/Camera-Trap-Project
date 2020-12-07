@@ -10,7 +10,7 @@ such as rotation, zoom, flip, and shift to the existing samples during the train
 
 The initial experiment implies building a flexible binary and multiclass CNN architecture with labeled images accumulated from several online sources. Once the baseline model is formulated and tested with satisfactory accuracy, new camera trap imagery data is executed to the model for recognition purpose. All three species have classified individually regarding background samples to distinguish the presence of target species in a camera trap  dataset. The performance is evaluated based on the classification accuracy within their group using two separate sets of validation and testing data. In the end, both  models have tested to predict the category of a new example to compare the models' generalization ability with a challenging camera trap data.
 
-****************** # Project Experiments ************
+****************** **Project Experiments** **********************
 
 # Dataset: 
 1. Online dataset and 2. Camera trap dataset (field dataset)
@@ -24,4 +24,12 @@ The initial experiment implies building a flexible binary and multiclass CNN arc
 
 
 # Libraries:
-	cv2, tensorflow, keras, scikit-learn, numpy, matplotlib, h5py, itertools, datetime,
+	'cv2 
+	tensorflow
+	keras
+	scikit-learn 
+	numpy
+	matplotlib 
+	h5py
+	itertools
+	datetime'
