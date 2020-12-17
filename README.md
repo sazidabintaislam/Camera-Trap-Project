@@ -19,8 +19,8 @@ The initial experiment implies building a flexible binary and multiclass CNN arc
 ## ***Content Description ***
 
 ### Dataset: 
-1. Online dataset: Image samples collecetd from online database
-2. Camera trap dataset: Field dataset collected from Texas.
+1. Online dataset: Image samples collecetd from online database (avilable on prior permission)
+2. Camera trap dataset: Field dataset collected from Texas (not available publicly).
 
 ### Models: 
 1. CNN-1: without implementing augmentation
